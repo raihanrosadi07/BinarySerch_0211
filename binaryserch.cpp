@@ -22,7 +22,7 @@ void input()
         }
     }
 
-cout << "\n=============================\n";
+    cout << "\n=============================\n";
     cout << "\n====Masukkan Elemen Array====\n";
     cout << "\n=============================\n";
 
@@ -67,3 +67,6 @@ void display()
     }
     cout << endl;
 }
+
+void binarySearch()
+{}
